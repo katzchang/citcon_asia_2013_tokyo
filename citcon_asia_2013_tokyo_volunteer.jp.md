@@ -31,8 +31,6 @@ CITCONは毎年、世界各地で開催されるため、質問に回答した�
 
 ### Marketing Coordinator - Status: Open マーケティング・コーディネーター
 
-For an open space conference, diversity can help to improve the overall experience. This person is responsible for getting the word out about CITCON. Not just to the same old mailing lists, but other places. This person should exhaust all possibilities, with a minimal budget (zero $) to attract people from all over the software industry. Most of their time will be spent posting to mailing lists, newsgroups, etc, but could include contacting trade magazines, local newspapers, etc. They are not required to be available during the conference, and therefore could register to attend the conference if they like.
-
 オープンスペース・カンファレンスでは、多様性が善です。マーケティング・コーディネーターは、CITCONについての情報を伝達する役割を担います。メーリングリストやSNS、コミュニティ等、様々な場所で…。低予算（ゼロ円！）で、ソフトウェア産業全体の人々に対して、CITCONへの参加を呼びかけるのです。
 
 メーリングリストやSNS等での告知や参加募集を呼びかけたり、ニュースサイト等のメディアへの告知・対応をするのがこの役割です。カンファレンス開催中に対応しなければならないということはないので、普通に参加できます。
