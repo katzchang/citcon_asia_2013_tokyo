@@ -25,36 +25,38 @@ CITCONにふさわしい会場を探して、開催を調整するボランテ�
 
 ### Local Coordinator - Status: Open 地域コーディネーター
 
-Since CITCON changes location each year, it is important to have someone local to help answer questions, obtain supplies, etc. This person must live near the location of the conference. They must be available via email and phone for months leading up to the conference. Their overall time committment is usually minimal. They are not required to be available during the conference, and therefore could register to attend the conference if they like.
-
 CITCONは毎年、世界各地で開催されるため、質問に回答したりや物品の調達したりするために、その地域で活動できる人が必要になります。
 
-開催されるまで、emailやsns、電話等でコンタクトが取れる必要があります。通常、それほど手間はかからないはずです。カンファレンスに参加しなければならない、ということはありません。が、もちろん、できれば参加しましょう。
+開催されるまで、emailやsns、電話等でコンタクトが取れる必要があります。通常、それほど手間はかからないはずです。カンファレンス開催中に対応しなければならないということはないので、普通に参加できます。
 
 ### Marketing Coordinator - Status: Open マーケティング・コーディネーター
 
 For an open space conference, diversity can help to improve the overall experience. This person is responsible for getting the word out about CITCON. Not just to the same old mailing lists, but other places. This person should exhaust all possibilities, with a minimal budget (zero $) to attract people from all over the software industry. Most of their time will be spent posting to mailing lists, newsgroups, etc, but could include contacting trade magazines, local newspapers, etc. They are not required to be available during the conference, and therefore could register to attend the conference if they like.
 
+オープンスペース・カンファレンスでは、多様性が善です。マーケティング・コーディネーターは、CITCONについての情報を伝達する役割を担います。メーリングリストやSNS、コミュニティ等、様々な場所で…。低予算（ゼロ円！）で、ソフトウェア産業全体の人々に対して、CITCONへの参加を呼びかけるのです。
+
+メーリングリストやSNS等での告知や参加募集を呼びかけたり、ニュースサイト等のメディアへの告知・対応をするのがこの役割です。カンファレンス開催中に対応しなければならないということはないので、普通に参加できます。
 
 ### Social Director - Status: Open ソーシャル・ディレクター
 
+CITCONは知識を学び共有するだけではなく、志を共にする人々との交流の場でもあります。ソーシャル・ディレクターは、何がどこで行われているかを把握する役割を担います。
 
-As much as CITCON is about learning and sharing knowledge, it's also about socializing with like-minded people. The social director ensures that everyone knows what is going on and where to go. During the conference, this includes "directing traffic" so that everyone makes it to the social hour, breakfast and lunch. This includes coordinating with the venue staff to ensure that the food and beverages are being served as planned. This also includes being able to help people plan post-conference activities at local pubs and restaurants. They must not be planning to attend the conference sessions as they must be available throughout the conference. This person must be available staring at 5 PM until 10 PM on Friday and starting at 8 AM until 6 PM on Saturday. This person must also be available for one hour on Thursday to do the "walk-through" with the venue.
+カンファレンス開催中、参加者の皆さんに懇親会・朝食・昼食などをとってもらう（「ディレクター・トラフィック」と呼びます）ために、会場スタッフと協力して食事や飲み物を手配したり、カンファレンス終了後の懇親会の居酒屋などを手配したりします。
+
+セッション内容を計画する必要はありませんが、カンファレンス開催中は会場で対応可能であることが求められます。つまり、4月19日の17時から22時まで、4月20日の8時から18時まで、会場で対応可能でいる必要があります。開催前日に会場で行うウォークスルーにも、参加が求められます。
 
 ### Assistant Social Director - Status: Open アシスタント・ソーシャル・ディレクター
 
+CITCONの参加者は、「猫集会」に例えられます。この猫集会の方向付けを助けるのが、アシスタント・ソーシャル・ディレクターの役割です。
 
-Directing the type of people that attend CITCON has been likened to "herding cats". The Social Director needs an assistant. This person assists the Social Director in ensuring a successful conference, especially by helping to notify each session room when the session is about to end. They must not be planning to attend the conference sessions as they must be available throughout the conference. This person must be available staring at 5 PM until 10 PM on Friday and starting at 8 AM until 6 PM on Saturday.
+カンファレンスを成功に導くべく、ソーシャル・ディレクターと協力します。例えば、セッションの開始と終了の連絡は重要な仕事の1つです。
 
-### Registration Desk Attendant #1 - Status: Open 受付係その1
+カンファレンス開催中に対応する必要があるため、一般参加はできません。4月19日の17時から22時まで、4月20日の8時から18時まで、会場で対応可能でいる必要があります。
 
-As people come to the conference, they approach the registration desk to sign in for the conference. This person is one of three that checks their name off the list and distributes the conference gift bags, which they must help to prepare. This person also helps to answer questions during the conference. Questions range from the mundane, like "Where is the washroom?" to the complex, like "Where is conference room B?". They must have a friendly disposition and be willing to help people in need. They must not be planning to attend the conference sessions as they must be available throughout the conference. They must be available starting at 4 PM until 10 PM on Friday, and starting at 8 AM until 6 PM on Saturday.
+### Registration Desk Attendant - Status: Open 受付係
 
-### Registration Desk Attendant #2 - Status: Open 受付係その2
+会場での受付デスクを担当します。
 
+参加者リストをチェックし、カンファレンスバッグを配布したりする役割を担います。また、開催期間中の問い合わせ窓口にもなります。たとえば、トイレの案内や会場の案内など…。親しみやすく、人を助けになることが好きな人が向いている役割です。
 
-Same as Registration Desk Attendant #1.
-
-### Registration Desk Attendant #3 - Status: Open 受付係その3
-
-Same as Registration Desk Attendant #1 and #2.
+人数は3名程度、カンファレンス開催中に対応する必要があるため、一般参加はできません。4月19日の16時から22時まで、4月20日の8時から18時まで、会場で対応可能でいる必要があります。
